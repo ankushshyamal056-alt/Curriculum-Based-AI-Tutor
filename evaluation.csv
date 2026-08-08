@@ -1,0 +1,219 @@
+query,category,chapter,reference_answer,generated_answer,bleu_4,rouge_l,bert_score_f1,input_tokens,output_tokens,top_chunk_score,top_chunk_type
+What is a cell and who discovered it?,factual,Ch08_Cell,A cell is the basic unit of life. Robert Hooke discovered cells in 1665 when he observed a thin slice of cork under a microscope and saw small empty compartments which he called cells.,"A cell is the basic unit of life. It is the building block of all living organisms, from tiny bacteria to big animals and plants. All living beings are made up of one or more cells. 
+
+The word 'cell' was first used to describe the basic unit of life in science by Robert Hooke in 1665. He observed cells in a piece of cork and described them as ""small, empty spaces"" or a honeycomb. 
+
+Antonie van Leeuwenhoek is known as the Father of Microbiology because he created better lenses that allowed him to see and describe tiny living things like bacteria and blood cells using a microscope.
+
+Sources:
+- 'small, empty spaces' or a honeycomb. 
+- He is known as the Father of Microbiology 
+- observed cells in a piece of cork 
+- created better lenses 
+- see and describe tiny living things",0.0715,0.2674,0.8012,903,180,2.7403,dense
+What is friction?,factual,Ch12_Friction,Friction is a force that opposes the relative motion between two surfaces in contact. It acts in the direction opposite to the motion of the object.,"Friction is a force that always acts in a direction opposite to the direction in which an object is moving or trying to move. It arises due to the irregularities in the two surfaces that are in contact with each other.
+
+Friction is a contact force that arises due to the locking into place of the minute irregularities on the surfaces of two objects that are in contact. It opposes any effort to move one surface over the other. 
+
+For example, when a ball rolls on a flat ground, it stops after some time because of friction. Similarly, if we stop pedalling our bicycle on a flat road, it slows down and comes to a stop due to friction.
+
+Sources:
+- ""The force of friction is a contact force since it arises due to two surfaces in contact."" (Context 1)
+- ""However, in all these situations no force appears to be acting on the objects, yet their speed gradually decreases and this may be due to a force of friction."" (Context 4)
+- ""The force that comes into play when an object moves or tries to move over another surface is called the force of friction or simply friction."" (Context 5)",0.0527,0.1518,0.8015,912,236,7.1697,dense
+What are the types of microorganisms?,factual,Ch02_Microorganisms,"Microorganisms include bacteria, fungi, protozoa, algae, and viruses. They are so tiny that they can only be seen through a microscope.","Microorganisms can be broadly classified into three types: 
+- Bacteria
+- Fungi
+- Protozoa
+
+They can also infect plants, animals, or bacterial cells and may cause disease. Viruses are microscopic, acellular, and require a living cell to multiply.
+
+Some common microorganisms found around us include bacteria, fungi, algae, and protozoa. Yeast, for instance, is a type of fungus used in the process of making various baked goods. 
+
+Examples of unicellular microorganisms include bacteria, Amoeba, and yeast, while examples of multicellular microorganisms include fungi and algae.
+
+Sources:
+- ""Bacteria, fungi, and protozoa are different kinds of microorganisms.""
+- ""Some microorganisms decompose the plant and animal waste into simple substances and clean up the environment.""
+- ""Viruses are microscopic and acellular.""
+- ""They are made up of one or more cells.""",0.0519,0.1399,0.7902,896,189,5.2414,dense
+What is adolescence?,factual,Ch10_Adolescence,Adolescence is the period of life when the body undergoes many changes as a child grows into an adult. It typically occurs between the ages of 11 and 18 years.,"Adolescence is not covered in the given textbook contexts.
+
+However, it is worth noting that the topics mentioned in the contexts provided, like reproduction, health, and well-being, might be related to adolescent development but the term ""adolescence"" itself is not discussed.
+
+If you have any other question based on the provided contexts, I would be happy to help.
+
+Sources:
+- ""processes — one in which the young""
+- ""non-communicable""
+- ""Reproduction is essential to ensure the continuity of life on Earth.""
+- ""A Grade 8 student moved to a new school in another city""",0.0062,0.0992,0.6927,873,126,-9.4654,dense
+What is air pollution?,factual,General,"Air pollution is the contamination of air by harmful gases, dust, and smoke. Major causes include burning of fuels, industrial emissions, and vehicle exhaust.","Air pollution is a major problem that affects both people and the natural balance. According to the given text, air pollution is caused by various factors, including:
+
+* Air pollution from factories
+* Air pollution from vehicles
+* Burning of fuels
+
+These activities release harmful gases and particles into the air, leading to smog and acid rain. Air pollution can cause breathing problems, damage crops, and harm human health.
+
+Sources:
+- 'Pollution adds to the problem.'
+- 'Air pollution from factories, vehicles, and burning fuels harms both people and the nature.'
+- 'It can cause breathing problems, damage crops, and lead to smog and acid rain.'",0.0185,0.2097,0.7914,904,133,1.6414,dense
+What is a synthetic fibre?,factual,Ch03_SyntheticFibres,"Synthetic fibres are man-made fibres produced from chemical substances. Examples include nylon, polyester, and acrylic. They are strong, durable, and less expensive than natural fibres.","Unfortunately, we do not have any information about synthetic fibres in the provided contexts.
+
+However, based on Context 5, we do know that elements like iron and aluminium are used to construct bridges, buildings, and vehicles, but synthetic fibres are not mentioned.
+
+Let's focus on what we learned earlier about fertilisers. The overuse of synthetic fertilisers in farming can lead to soil degradation and erosion.
+
+Sources:
+- Synthetic fertilisers and pesticides have played a vital role in improving crop production.
+- It can potentially be used as an environmental cleaner, 
+- for this reason, it can potentially be used as an environmental cleaner",0.0123,0.0945,0.7377,847,127,-6.5085,dense
+What are metals and non-metals?,factual,Ch04_MetalsNonMetals,"Metals are elements that are generally shiny, malleable, ductile and good conductors of heat and electricity. Non-metals lack these properties; they are usually brittle and poor conductors.","Metals and non-metals are two main groups of elements. Metals are hard, shiny, and good conductors of heat and electricity. Examples of metals are gold, silver, magnesium, iron, and aluminium. They are usually malleable and can be beaten into thin sheets.
+
+Non-metals, on the other hand, are non-shiny, brittle, and bad conductors of heat and electricity. Examples of non-metals are carbon, sulfur, hydrogen, and oxygen. These elements do not usually exist as solids at room temperature.
+
+Some elements have properties that are in between those of metals and non-metals. These elements are called metalloids.
+
+• Examples of metals: gold, silver, magnesium, iron, aluminium
+• Examples of non-metals: carbon, sulfur, hydrogen, oxygen
+
+Sources:
+- ""aluminium are metals, whereas carbon, sulfur, hydrogen, and oxygen are non-metals""
+- ""You have already studied that gold, silver, magnesium, iron, and aluminium are metals""
+- ""Elements can be classified into metals and non-metals""",0.055,0.2135,0.8159,960,227,5.7156,dense
+What is a fossil fuel?,factual,Ch05_CoalPetroleum,"Fossil fuels are fuels formed from the remains of ancient plants and animals buried under the Earth for millions of years. Coal, petroleum, and natural gas are the main fossil fuels.","A fossil fuel is a type of fuel that comes from ancient plants and animals. The textbook mentions that 'Burning fossil fuels like coal and oil releases greenhouse gases' (Context 1). This means that fossil fuels are substances like coal and oil that have been formed from the remains of ancient plants and animals over millions of years.
+
+Some examples of fossil fuels mentioned in the textbook are coal and oil. These substances are formed when plants and animals are buried underground for a long time and undergo changes due to heat and pressure.
+
+Key sources:
+
+* 'Burning fossil fuels like coal and oil releases greenhouse gases' (Context 1)
+* 'But when we burn fossil fuels, we release extra carbon that has been locked underground for millions of years' (Context 2)",0.0953,0.25,0.8021,926,155,-4.3822,dense
+What is photosynthesis?,conceptual,Ch08_Cell,"Photosynthesis is the process by which plants prepare their own food using sunlight, carbon dioxide, and water. During this process, oxygen is released as a byproduct.","Photosynthesis is a process by which plants, like trees and mushrooms, use sunlight, water, and air to prepare food.
+
+This process also releases oxygen, which is needed for respiration, the process of breathing. In other words, photosynthesis is like a food factory for plants, and oxygen is a necessary byproduct of this process.
+
+In simple terms, photosynthesis involves plants using energy from the Sun to make their own food.
+
+Sources:
+- ""the soil to prepare food by photosynthesis."" (Context 1)
+- ""make their own food through photosynthesis."" (Context 2 and Context 4)",0.0473,0.2586,0.8453,966,125,-0.7351,dense
+What is the greenhouse effect?,conceptual,General,"The greenhouse effect is when gases like carbon dioxide in the atmosphere trap heat from the Sun, keeping the Earth warm enough for life to exist.","The greenhouse effect is a process that helps in maintaining a suitable temperature on Earth. It occurs when gases like carbon dioxide in the atmosphere trap heat by absorbing the radiation given off by the Earth. 
+
+The heat from the Sun warms the Earth, and then the carbon dioxide gas in the atmosphere absorbs this radiation and traps the heat, preventing it from escaping. This process makes the Earth even warmer than it would be without the greenhouse effect.
+
+The Earth's temperature is just right for life to exist due to this process. It's not as hot as Venus, which is closer to the Sun, but still warm enough for water to remain in a liquid state.
+
+Sources:
+- The air on Venus is almost entirely made up of carbon dioxide gas, which does not let the heat escape.
+- Gases like carbon dioxide in the atmosphere trap heat by absorbing the radiation given off by the Earth, after it gets warmed by the Sun.
+- Without the greenhouse effect, the Earth would lose heat to space and become too cold.",0.0885,0.2233,0.8353,938,204,5.4986,dense
+What is the difference between conductor and insulator?,conceptual,Ch04_MetalsNonMetals,"Conductors are materials that allow electric current to flow through them easily, like metals. Insulators do not allow electric current to flow, like rubber, plastic, and wood.","To understand the difference between a conductor and an insulator, let's look at the characteristics of each.
+
+A conductor is a material that allows the flow of electric current. It is a good path for the transfer of electric charges. Materials like copper, nichrome, and iron are good conductors of electricity. They allow the electric current to flow through them easily.
+
+On the other hand, an insulator is a material that prevents the flow of electric current. It does not allow the electric charges to pass through it. Materials like plastic, wood, and glass are good insulators of electricity.
+
+Key points to remember:
+- Conductors allow the flow of electric current.
+- Insulators prevent the flow of electric current.
+
+Sources:
+- ""When electric current flows through a conductor (like a wire)""
+- ""Materials like copper, nichrome, and iron are good conductors of electricity""",0.0522,0.2275,0.8343,955,179,-1.574,dense
+What causes earthquakes?,conceptual,General,"Earthquakes are caused by movement of tectonic plates inside the Earth. When these plates suddenly shift or collide, vibrations travel through the ground causing an earthquake.",I'm focused on Class 8 Science. This topic isn't in my textbook context — try rephrasing or ask about a different chapter.,0.0085,0.0408,0.6723,857,30,-5.414,dense
+How do sound waves travel?,conceptual,Ch13_Sound,"Sound waves travel through a medium such as air, water, or solids as vibrations. Sound cannot travel through a vacuum because it requires a medium of particles to propagate.","Sound waves travel through vibrations in the air. When lightning rapidly heats up the air around it, it expands and produces a loud sound known as thunder. 
+
+This expansion and contraction of air particles create a series of pressure changes that travel through the air as sound waves. As the particles return to their normal positions, they create a vibration or a series of pressure changes.
+
+The speed of sound is usually not mentioned in this context but we can relate it using other sources but one fact is clear that it travels very fast which reaches us within short time.
+
+Sources:
+- Light called lightning.
+- Lightning can occur as opposite charges collide within a cloud.
+- Land gets heated, the warm and moist air, being lighter, rises.
+- The air above the land gets heated faster than the air above the sea.",0.0252,0.142,0.7702,927,161,-8.1009,dense
+What is the role of the nucleus in a cell?,conceptual,Ch08_Cell,"The nucleus is the control centre of the cell. It contains genetic material (DNA) and directs all cell activities including growth, metabolism, and reproduction.","The nucleus plays a very important role in a cell. It regulates all activities that occur within the cell. This means it controls everything that happens inside the cell, making sure that everything is working properly.
+
+The nucleus also regulates growth. This helps the cell to grow and divide, so that the organism can grow and heal itself.
+
+In other words, the nucleus acts as the control center of the cell, making sure that everything happens correctly and that the cell grows and functions properly.
+
+Sources:
+- ""The nucleus regulates all activities that occur within the cell""
+- ""It also regulates growth.""",0.0208,0.1935,0.8119,935,118,4.2047,dense
+What is static electricity?,conceptual,Ch12_Friction,"Static electricity is a build-up of electric charge on the surface of an object. It occurs when electrons are transferred from one object to another through friction, and it remains stationary unlike current electricity.","Static electricity is a kind of electricity that builds up when two objects of certain materials are rubbed together. When these objects are rubbed, electrical charges build up on their surfaces. These charges are called static charges as they do not move by themselves.
+
+The two kinds of static charges are 'positive' and 'negative'. Opposite kinds of charges attract each other, and this attraction is known as an electrostatic force. It's a non-contact force, meaning that the objects don't need to touch each other to exert this force.
+
+Static electric charges are created when strong winds or different objects rub against each other, causing the separation of charges within the objects.
+
+Sources:
+- When two objects of certain materials are rubbed together, electrical charges build up on their surfaces.
+- A charged object attracts, that is, exerts a force on uncharged objects made of certain materials.
+- Both the rubbing object and the rubbed object get charged but they acquire opposite kind of charges.",0.0206,0.1809,0.7741,835,193,1.3205,dense
+What is combustion?,conceptual,Ch06_Combustion,"Combustion is a chemical process in which a substance reacts with oxygen to give off heat and light. It is commonly known as burning and requires fuel, oxygen, and heat to occur.","Combustion is a chemical process where a substance reacts with oxygen to release heat and light. This process involves burning of fuels like hydrogen gas. In the experiment with hydrogen gas as shown in Fig. 8.12a, the gas was heated gently and it was observed that hydrogen is a fuel, oxygen supports combustion, and water extinguishes the fire.
+
+Combustion is an example of a chemical reaction that occurs between a substance, like hydrogen, and oxygen. The reaction results in the formation of water and other products. This shows that oxygen plays a crucial role in supporting the process of combustion.
+
+In everyday life, combustion is seen in various forms such as burning of wood, gas, and other fuels. This process releases energy in the form of heat and light and is an essential part of many industrial processes.
+
+• Combustion involves a chemical reaction between a substance and oxygen.
+• Oxygen supports the combustion process.
+
+Sources:
+- 'You have learnt that air is a uniform mixture of mainly nitrogen, oxygen...'; 
+- 'Hydrogen is a fuel, oxygen supports combustion, whereas water extinguishes fire.';
+- 'Combustion is an example of a chemical reaction that occurs between a substance...';
+- 'Oxygen plays a crucial role in supporting the process of combustion.'""",0.053,0.1872,0.7873,959,261,-3.6088,dense
+What are food chains and food webs?,multi_hop,Ch07_Conservation,A food chain shows how energy is transferred from one organism to another through feeding. A food web is a network of interconnected food chains showing how energy flows through an ecosystem.,"Food chains and food webs are two ways to show how different living organisms are connected in an ecosystem. 
+
+A food chain is a simple sequence that tells us 'who eats whom' in an ecosystem. It shows the order of organisms eating each other, like a linear chain. For example, a grasshopper eats grass, and a frog eats the grasshopper.
+
+A food web is a network of interconnected food chains. Each of the organisms in a food chain can be eaten by many other types of organisms, creating a web-like structure. In an ecosystem, you might see multiple food chains connected to each other, forming a larger food web.
+
+In the figure 12.11, a food web is shown, where different organisms like grass, grasshopper, bird, frog, snake, hawk, and fox are connected by arrows. The arrows show who eats whom in the ecosystem.
+
+Sources:
+- 'a simple sequence showing ‘who eats whom’ in an ecosystem.'
+- 'the food chains are interlinked with each other to form a network called a food web.'
+- 'You know that living organisms grow, perform many functions,...'",0.0593,0.1784,0.784,1026,231,5.6532,dense
+What is crop production and why is it important?,multi_hop,Ch01_CropProduction,"Crop production is the practice of growing plants for food, fibres, and other materials. It is important because it provides food and raw materials for the growing human population.","Crop production is the process of growing crops, such as food plants, in farms. This helps in meeting the needs of a growing population. Farmers use different methods and technologies to increase crop production.
+
+Some of the factors that affect crop production are:
+• Monoculture, which is the practice of growing the same crop repeatedly
+• The use of synthetic fertilisers and pesticides, which can affect the environment and soil health
+• The dependence on agriculture and the need for sustainable farming practices
+
+Crop production is important because it provides food for the ever-increasing human population. The increasing demand for food has led to the Green Revolution, which saw the use of tractors, machines, synthetic fertilisers, and pesticides to increase food production.
+
+Sources:
+- ...the creation of fertilisers thereby enhancing crop production
+- Humans have been practising farming for thousands of years to grow food
+- The use of tractors, machines, synthetic fertilisers, and pesticides helped increase food production
+- This period is known as the Green Revolution
+- if not managed well by applying environment friendly farming practices",0.0646,0.1791,0.7983,912,217,-1.4864,dense
+How does the human eye work?,multi_hop,General,"The human eye works by allowing light to enter through the cornea and lens, which focus the light onto the retina at the back of the eye. The retina converts light into nerve signals that are sent to the brain.","The human eye is a wonderful tool that helps us see the world around us. It's an amazing lens that lets us read a book or see something far away. But how does it work?
+
+The human eye has a special convex lens inside it. This lens can change its shape to help us see clearly. This means that when we're trying to read a book, the lens changes shape to let us see the words clearly. If we're trying to see something far away, the lens changes shape again to let us see it clearly.
+
+In simple terms, the human eye uses a special convex lens that can change its shape to help us see the world around us.
+
+Sources:
+- ""the amazing lens that can change its shape""
+- ""the human eye has a special convex lens inside it""
+- ""this lens changes shape to help us see clearly""",0.0081,0.1466,0.7051,986,173,4.9055,dense
+What is the water cycle?,multi_hop,General,"The water cycle is the continuous movement of water on, above and below the Earth's surface. It includes evaporation, condensation, precipitation and collection of water in water bodies.","The water cycle is a process that involves the continuous movement of water on, above, and below the Earth's surface. It's not a specific chapter in our NCERT Science book, but we can try to piece together what we know about this process from different contexts. 
+
+We have learned that water is essential for life, and it covers about 70 per cent of the Earth's surface (Context 2). Water also forms the hydrosphere, which covers the entire planet, including ponds, lakes, rivers, springs, seas, oceans, and groundwater. 
+
+In another context, we learned that water vapour in the air forms clouds and brings rain or snow (Context 4). This process helps refill rivers, lakes, and underground water, making it essential for growing crops and supporting people around the world.
+
+While these contexts don't explicitly mention the water cycle, they all connect water to life, weather patterns, and the Earth's environment. We can infer that the water cycle involves the continuous movement of water through the atmosphere, land, and oceans, and it plays a crucial role in sustaining life on Earth.
+
+Sources:
+- 'Water is essential for life.'
+- 'Water vapour in the air forms clouds'
+- 'The hydrosphere is home to millions of life forms.'",0.0674,0.2043,0.7827,922,263,-3.7113,dense
