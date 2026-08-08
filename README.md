@@ -211,7 +211,3 @@ result = ask_tutor("What does a nucleus do?", chapter_filter="Ch08_Cell")
 If you're forking or adapting this notebook, double-check that no API key is hardcoded as a fallback default anywhere in the code (e.g. `os.environ.get('GROQ_API_KEY', '<key>')`). Always require the key via environment variable only, and add `.env` / credential files to `.gitignore`.
 
 ---
-
-## License
-
-Add your preferred license here (e.g. MIT).
